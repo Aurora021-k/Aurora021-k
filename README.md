@@ -1,7 +1,21 @@
-## Hi there 👋
+# Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ![GitHub followers](https://img.shields.io/github/followers/clydegold8?label=Follow%20me%21&logo=github&style=flat-square) [![Linkedin Badge](https://img.shields.io/badge/-ClydeIan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clyde-ian-acaso-1a3339b1)](https://www.linkedin.com/in/clyde-ian-acaso-1a3339b1) [![Gmail Badge](https://img.shields.io/badge/-ian.clyde24-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ian.clyde24@gmail.com)](mailto:ian.clyde24@gmail.com)
+I am a Senior Frontend Engineer specializing in React/Next.js/TypeScript for high-scale commerce.
+Proven to lift conversion via Core Web Vitals (LCP/FID), A/B experimentation, and accessibility-first
+design systems. Comfortable across Node.js and serverless; lead CI/CD and analytics instrumentation
+for data-driven delivery.
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
+## :hammer_and_wrench: Technologies and Tools
+<img src="https://img.shields.io/static/v1?style=flat-square&label=Linux&message=OS&color=blue&logo=linux"> <img src="https://img.shields.io/static/v1?style=flat-square&label=Windows&message=OS&color=blue&logo=windows"> <img src="https://img.shields.io/static/v1?style=flat-square&label=Angular&message=@latest&color=blue&logo=angular"> <img src="https://img.shields.io/static/v1?style=flat-square&label=React&message=@latest&color=blue&logo=react"> <img src="https://img.shields.io/static/v1?style=flat-square&label=Redux&message=@latest&color=blue&logo=redux"> <img src="https://img.shields.io/static/v1?style=flat-square&label=SASS&message=@latest&color=blue&logo=sass"> <img src="https://img.shields.io/static/v1?style=flat-square&label=Material-UI&message=@latest&color=blue&logo=material-ui"> <img src="https://img.shields.io/static/v1?style=flat-square&label=Node.js&message=@latest&color=blue&logo=node.js"> <img src="https://img.shields.io/static/v1?style=flat-square&label=Github&message=Project-Versioning&color=blue&logo=git"> <img src="https://img.shields.io/static/v1?style=flat-square&label=Gitlab&message=Project-Versioning&color=blue&logo=gitlab"> <img src="https://img.shields.io/static/v1?style=flat-square&label=Bootstrap&message=CSS-Framework&color=blue&logo=bootstrap"> <img src="https://img.shields.io/static/v1?style=flat-square&label=CSS3&message=CSS-Mastered&color=blue&logo=css3"> <img src="https://img.shields.io/static/v1?style=flat-square&label=HTML5&message=HTML5-Developer&color=blue&logo=html5"> <img src="https://img.shields.io/static/v1?style=flat-square&label=Javascript&message=javascript-Developer&color=blue&logo=javascript"> <img src="https://img.shields.io/static/v1?style=flat-square&label=PHP&message=PHP-Developer&color=blue&logo=php"> <img src="https://img.shields.io/static/v1?style=flat-square&label=Android&message=Developer&color=blue&logo=android"> <img src="https://img.shields.io/static/v1?style=flat-square&label=Ionic&message=Developer&color=blue&logo=ionic">  <img src="https://img.shields.io/static/v1?style=flat-square&label=Wordoress&message=Developer&color=blue&logo=wordpress"> 
+
+## :chart_with_upwards_trend: Github Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clydegold8&layout=compact&theme=dark)
+[![clydegold8's GitHub stats](https://my-stats-theta-taupe.vercel.app/api?username=clydegold8&theme=dark&hide=contribs&layout=compact)](https://github.com/clydegold8/github-readme-stats)
 <!--
-**Aurora021-k/Aurora021-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![clydegold8's Github Stats](https://github-readme-stats.vercel.app/api?username=clydegold8&show_icons=true&theme=radical&hide=contribs,issues)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clydegold8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+**clydegold8/clydegold8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
