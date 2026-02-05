@@ -4,7 +4,7 @@
 
 ---
 
-## 👋 Welcome to My Digital Portfolio
+## 👋 Welcome to My Kingdom!
 
 I am a Senior Frontend Engineer specializing in React/Next.js/TypeScript for high-scale commerce.
 Proven to lift conversion via Core Web Vitals (LCP/FID), A/B experimentation, and accessibility-first
