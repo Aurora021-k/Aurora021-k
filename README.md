@@ -23,6 +23,10 @@ for data-driven delivery.
 - 🚀 **Current Role**: Senior Front-End Engineer
 - 🎨 **Specialties**: Web Vitals (LCP/FID), A/B experimentation, and accessibility-first design systems
 
+
+
+
+
 ---
 
 ## 🛠️ Tools & Stack
