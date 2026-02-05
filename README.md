@@ -1,4 +1,4 @@
-# Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> [![GitHub followers](https://aurora021-k.github.io/portfolio?label=Follow%20me%21&logo=github&style=flat-square)] [![Gmail Badge](https://img.shields.io/badge/-ian.clyde24-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sinny.aurora021@gmail.com)](mailto:sinny.aurora021@gmail.com)
+# Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 # 🚀 Senior Front-End Engineer Portfolio
 
