@@ -22,8 +22,14 @@ for data-driven delivery.
 - 🌍 **Remote Expert**: Extensive experience with US
 - 🚀 **Current Role**: Senior Front-End Engineer
 - 🎨 **Specialties**: Web Vitals (LCP/FID), A/B experimentation,
-            and accessibility-first design systems
-
+              and accessibility-first design systems
+- 🌙 **Dark/Light Theme**: Toggle between themes with
+              system preference detection
+- ⚡ **Performance Optimized**: Fast loading with
+              modern build tools
+- 🎯 **Interactive**: Hover effects, smooth scrolling,
+              and micro-interactions
+- 📝 **Contact Ready**: Easy ways to get in touch for collaboration
 
 
 
