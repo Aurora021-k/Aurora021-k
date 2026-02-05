@@ -21,7 +21,8 @@ for data-driven delivery.
 - 💼 **Experience**: 7+ years in Frontend & Full-Stack Development
 - 🌍 **Remote Expert**: Extensive experience with US
 - 🚀 **Current Role**: Senior Front-End Engineer
-- 🎨 **Specialties**: Web Vitals (LCP/FID), A/B experimentation, and accessibility-first design systems
+- 🎨 **Specialties**: Web Vitals (LCP/FID), A/B experimentation,
+            and accessibility-first design systems
 
 
 
